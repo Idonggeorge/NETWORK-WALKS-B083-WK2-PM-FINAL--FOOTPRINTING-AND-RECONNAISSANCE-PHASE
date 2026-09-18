@@ -159,21 +159,35 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 The original report contains evidence screenshots collected during the practical activities.
 
+
+
 <img width="607" height="455" alt="Screenshot 2026-09-16 235522" src="https://github.com/user-attachments/assets/a08185d0-c82e-48ef-bc93-117ac01cb1ce" />
+
+
 
 <img width="698" height="110" alt="Screenshot 2026-09-17 000233" src="https://github.com/user-attachments/assets/7c04937d-226f-4c87-b14d-851a44c1e2e9" />
 
+
+
 <img width="294" height="215" alt="Screenshot 2026-09-17 001709" src="https://github.com/user-attachments/assets/4cc5fbac-7a8d-478e-a1c1-9c2b0289e533" />
+
+
 
 <img width="614" height="359" alt="Screenshot 2026-09-17 002338" src="https://github.com/user-attachments/assets/b25807b1-828d-46ba-896d-c6e0668402f8" />
 
+
+
 <img width="506" height="281" alt="Screenshot 2026-09-17 002924" src="https://github.com/user-attachments/assets/4ae1dba6-a5cc-4fcc-a898-7a5c77f68203" />
+
+
 
 <img width="692" height="343" alt="Screenshot 2026-09-17 003255" src="https://github.com/user-attachments/assets/3d277050-842d-4303-93f8-ed363fc2ffb4" />
 
+
+
 <img width="947" height="448" alt="Screenshot 2026-09-17 190859" src="https://github.com/user-attachments/assets/8439e816-221d-4d43-b3e7-6ad5654fb0ef" />
 
-<img width="942" height="485" alt="Screenshot 2026-09-17 201609" src="https://github.com/user-attachments/assets/4a8d09a2-8081-46d3-a846-feb54a9aa30a" />
+
 
 <img width="946" height="491" alt="Screenshot 2026-09-17 201818" src="https://github.com/user-attachments/assets/5a5bc2db-a2fc-4813-be71-edb740507d8c" />
 
